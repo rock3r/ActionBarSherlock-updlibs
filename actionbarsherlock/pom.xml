@@ -16,13 +16,15 @@
 
   <dependencies>
     <dependency>
-      <groupId>com.google.android</groupId>
+      <groupId>android</groupId>
       <artifactId>android</artifactId>
+      <version>4.4_r1</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
-      <groupId>com.google.android</groupId>
-      <artifactId>support-v4</artifactId>
+      <groupId>android.support</groupId>
+      <artifactId>compatibility-v4</artifactId>
+      <version>19</version>
     </dependency>
 
     <dependency>
