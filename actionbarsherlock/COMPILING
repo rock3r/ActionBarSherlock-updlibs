@@ -1,0 +1,3 @@
+To build this using Maven, you will need to import the Android 4.4 (KitKat) and the version 19 of the compatibility library (v4) using the Maven Android SDK Deployer: https://github.com/mosabua/maven-android-sdk-deployer
+
+Please note that you will need Maven 3.1.1+ on your machine to be able to use the SDK deployer. Ubuntu usually ships with Maven 3.0, so you'll have to manually install Maven 3.1.1.
